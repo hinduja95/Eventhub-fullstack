@@ -25,4 +25,4 @@ DB_USER=root
 DB_PASSWORD=yourpassword
 DB_NAME=eventhub_db
 JWT_SECRET=your_jwt_secret
-PORT=8000
+PORT=8080
